@@ -22,3 +22,8 @@ def third_challenge
 
   
 end
+
+hash = {first: "first value!", second: "second value!"}
+ 
+hash[:first]
+#  => "first value!"
